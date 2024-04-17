@@ -109,6 +109,8 @@ ${response.test}
 
 ## Contact
 ${response.contact}
+Email: KeanuF2017@gmail.com
+Github: Github: https://github.com/KeanuFord
 `
 
         fs.writeFile(__dirname +'/output/README.md', readMe, (err) => {
